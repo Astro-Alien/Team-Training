@@ -1,0 +1,29 @@
+C:\PragmaDev\Design Principles\LoggingSystem\bin\Debug\net8.0\LoggingSystem.exe
+C:\PragmaDev\Design Principles\LoggingSystem\bin\Debug\net8.0\LoggingSystem.deps.json
+C:\PragmaDev\Design Principles\LoggingSystem\bin\Debug\net8.0\LoggingSystem.runtimeconfig.json
+C:\PragmaDev\Design Principles\LoggingSystem\bin\Debug\net8.0\LoggingSystem.dll
+C:\PragmaDev\Design Principles\LoggingSystem\bin\Debug\net8.0\LoggingSystem.pdb
+C:\PragmaDev\Design Principles\LoggingSystem\obj\Debug\net8.0\LoggingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\PragmaDev\Design Principles\LoggingSystem\obj\Debug\net8.0\LoggingSystem.AssemblyInfoInputs.cache
+C:\PragmaDev\Design Principles\LoggingSystem\obj\Debug\net8.0\LoggingSystem.AssemblyInfo.cs
+C:\PragmaDev\Design Principles\LoggingSystem\obj\Debug\net8.0\LoggingSystem.csproj.CoreCompileInputs.cache
+C:\PragmaDev\Design Principles\LoggingSystem\obj\Debug\net8.0\LoggingSystem.dll
+C:\PragmaDev\Design Principles\LoggingSystem\obj\Debug\net8.0\refint\LoggingSystem.dll
+C:\PragmaDev\Design Principles\LoggingSystem\obj\Debug\net8.0\LoggingSystem.pdb
+C:\PragmaDev\Design Principles\LoggingSystem\obj\Debug\net8.0\LoggingSystem.genruntimeconfig.cache
+C:\PragmaDev\Design Principles\LoggingSystem\obj\Debug\net8.0\ref\LoggingSystem.dll
+C:\PragmaDev\Team-Training\Logger\obj\Debug\net8.0\LoggingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\PragmaDev\Team-Training\Logger\obj\Debug\net8.0\LoggingSystem.AssemblyInfoInputs.cache
+C:\PragmaDev\Team-Training\Logger\obj\Debug\net8.0\LoggingSystem.AssemblyInfo.cs
+C:\PragmaDev\Team-Training\Logger\obj\Debug\net8.0\LoggingSystem.csproj.CoreCompileInputs.cache
+C:\PragmaDev\Team-Training\Logger\obj\Debug\net8.0\LoggingSystem.sourcelink.json
+C:\PragmaDev\Team-Training\Logger\obj\Debug\net8.0\LoggingSystem.dll
+C:\PragmaDev\Team-Training\Logger\obj\Debug\net8.0\refint\LoggingSystem.dll
+C:\PragmaDev\Team-Training\Logger\obj\Debug\net8.0\LoggingSystem.pdb
+C:\PragmaDev\Team-Training\Logger\bin\Debug\net8.0\LoggingSystem.exe
+C:\PragmaDev\Team-Training\Logger\bin\Debug\net8.0\LoggingSystem.deps.json
+C:\PragmaDev\Team-Training\Logger\bin\Debug\net8.0\LoggingSystem.runtimeconfig.json
+C:\PragmaDev\Team-Training\Logger\bin\Debug\net8.0\LoggingSystem.dll
+C:\PragmaDev\Team-Training\Logger\bin\Debug\net8.0\LoggingSystem.pdb
+C:\PragmaDev\Team-Training\Logger\obj\Debug\net8.0\LoggingSystem.genruntimeconfig.cache
+C:\PragmaDev\Team-Training\Logger\obj\Debug\net8.0\ref\LoggingSystem.dll

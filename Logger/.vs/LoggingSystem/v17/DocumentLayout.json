@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PragmaDev\\Team-Training\\Logger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5656EFBD-9358-4DDA-BC72-7AE6301F37B0}|LoggingSystem.csproj|c:\\pragmadev\\team-training\\logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5656EFBD-9358-4DDA-BC72-7AE6301F37B0}|LoggingSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5656EFBD-9358-4DDA-BC72-7AE6301F37B0}|LoggingSystem.csproj|c:\\pragmadev\\team-training\\logger\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5656EFBD-9358-4DDA-BC72-7AE6301F37B0}|LoggingSystem.csproj|solutionrelative:logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5656EFBD-9358-4DDA-BC72-7AE6301F37B0}|LoggingSystem.csproj|c:\\pragmadev\\team-training\\logger\\formatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5656EFBD-9358-4DDA-BC72-7AE6301F37B0}|LoggingSystem.csproj|solutionrelative:formatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5656EFBD-9358-4DDA-BC72-7AE6301F37B0}|LoggingSystem.csproj|c:\\pragmadev\\team-training\\logger\\errorformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5656EFBD-9358-4DDA-BC72-7AE6301F37B0}|LoggingSystem.csproj|solutionrelative:errorformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5656EFBD-9358-4DDA-BC72-7AE6301F37B0}|LoggingSystem.csproj|c:\\pragmadev\\team-training\\logger\\warningformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5656EFBD-9358-4DDA-BC72-7AE6301F37B0}|LoggingSystem.csproj|solutionrelative:warningformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5656EFBD-9358-4DDA-BC72-7AE6301F37B0}|LoggingSystem.csproj|c:\\pragmadev\\team-training\\logger\\messageformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5656EFBD-9358-4DDA-BC72-7AE6301F37B0}|LoggingSystem.csproj|solutionrelative:messageformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PragmaDev\\Team-Training\\Logger\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\PragmaDev\\Team-Training\\Logger\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:57:27.982Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\PragmaDev\\Team-Training\\Logger\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger.cs",
+              "ToolTip": "C:\\PragmaDev\\Team-Training\\Logger\\Logger.cs",
+              "RelativeToolTip": "Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:13:07.733Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Formatter.cs",
+              "DocumentMoniker": "C:\\PragmaDev\\Team-Training\\Logger\\Formatter.cs",
+              "RelativeDocumentMoniker": "Formatter.cs",
+              "ToolTip": "C:\\PragmaDev\\Team-Training\\Logger\\Formatter.cs",
+              "RelativeToolTip": "Formatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:13:29.622Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageFormatter.cs",
+              "DocumentMoniker": "C:\\PragmaDev\\Team-Training\\Logger\\MessageFormatter.cs",
+              "RelativeDocumentMoniker": "MessageFormatter.cs",
+              "ToolTip": "C:\\PragmaDev\\Team-Training\\Logger\\MessageFormatter.cs",
+              "RelativeToolTip": "MessageFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:59:12.166Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WarningFormatter.cs",
+              "DocumentMoniker": "C:\\PragmaDev\\Team-Training\\Logger\\WarningFormatter.cs",
+              "RelativeDocumentMoniker": "WarningFormatter.cs",
+              "ToolTip": "C:\\PragmaDev\\Team-Training\\Logger\\WarningFormatter.cs",
+              "RelativeToolTip": "WarningFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:57:32.015Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorFormatter.cs",
+              "DocumentMoniker": "C:\\PragmaDev\\Team-Training\\Logger\\ErrorFormatter.cs",
+              "RelativeDocumentMoniker": "ErrorFormatter.cs",
+              "ToolTip": "C:\\PragmaDev\\Team-Training\\Logger\\ErrorFormatter.cs",
+              "RelativeToolTip": "ErrorFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:57:57.788Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
