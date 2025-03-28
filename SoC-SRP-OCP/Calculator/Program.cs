@@ -25,6 +25,12 @@
 
             Console.WriteLine(mulResult);
 
+            Calculate binToDecInstance = new BinToDec();
+
+            int binToDecResult = binToDecInstance.CalculateValue();
+
+            Console.log(binToDecResult);
+
         }
     }
 

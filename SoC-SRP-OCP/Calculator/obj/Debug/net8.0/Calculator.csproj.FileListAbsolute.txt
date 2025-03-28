@@ -13,3 +13,11 @@ C:\OptimusDev\Team-Training\SoC-SRP-OCP\Calculator\obj\Debug\net8.0\refint\Calcu
 C:\OptimusDev\Team-Training\SoC-SRP-OCP\Calculator\obj\Debug\net8.0\Calculator.pdb
 C:\OptimusDev\Team-Training\SoC-SRP-OCP\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
 C:\OptimusDev\Team-Training\SoC-SRP-OCP\Calculator\obj\Debug\net8.0\ref\Calculator.dll
+C:\PragmaDev\Team-Training\SoC-SRP-OCP\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\PragmaDev\Team-Training\SoC-SRP-OCP\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\PragmaDev\Team-Training\SoC-SRP-OCP\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\PragmaDev\Team-Training\SoC-SRP-OCP\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\PragmaDev\Team-Training\SoC-SRP-OCP\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+C:\PragmaDev\Team-Training\SoC-SRP-OCP\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\PragmaDev\Team-Training\SoC-SRP-OCP\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\PragmaDev\Team-Training\SoC-SRP-OCP\Calculator\obj\Debug\net8.0\Calculator.pdb
